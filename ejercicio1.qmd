@@ -4,6 +4,6 @@ format: html
 ---
 
 ```{python}
-!echo "foo"
+!echo "hola"
 ```
 
